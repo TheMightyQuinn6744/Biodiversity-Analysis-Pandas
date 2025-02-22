@@ -2,9 +2,9 @@ Capstone 2: Biodiversity Project
 
 Introduction
 
-You are a biodiversity analyst working for the National Parks Service. This project involves analyzing species data from various national parks to gain insights into biodiversity and conservation efforts.
-
-Note: The data used in this project is inspired by real-world data but is largely fictional.
+    You are a biodiversity analyst working for the National Parks Service. This project involves analyzing species data from various national parks to gain insights into biodiversity and conservation efforts.
+    
+    Note: The data used in this project is inspired by real-world data but is largely fictional.
 
 Data and Setup
 
